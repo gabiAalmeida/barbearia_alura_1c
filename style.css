@@ -1,7 +1,10 @@
 body {
-    background: #ccccc;
-} 
 
+} 
+.Principal{
+    background: #ccccc;
+    padding: 30px;
+}
 #banner{
     width: 100%;
 }
